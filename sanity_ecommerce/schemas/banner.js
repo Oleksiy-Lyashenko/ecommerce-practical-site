@@ -27,6 +27,11 @@ export default {
       type: 'string',
     },
     {
+      name: 'discount',
+      title: 'Discount',
+      type: 'string',
+    },
+    {
       name: 'smallText',
       title: 'SmallText',
       type: 'string',
@@ -37,8 +42,18 @@ export default {
       type: 'string',
     },
     {
-      name: 'largeText',
-      title: 'LargeText',
+      name: 'largeText1',
+      title: 'LargeText1',
+      type: 'string',
+    },
+    {
+      name: 'largeText2',
+      title: 'LargeText2',
+      type: 'string',
+    },
+    {
+      name: 'saleTime',
+      title: 'SaleTime',
       type: 'string',
     },
   ],
